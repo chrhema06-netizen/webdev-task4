@@ -102,8 +102,5 @@ Build a real-time Weather Dashboard by fetching and processing JSON data from a 
 
 Web Development Intern – Thiranex
 
-GitHub: https://github.com/yourusername
-
----
-
-⭐ If you found this project useful, feel free to star the repository.
+GitHub: https://github.com/chrhema06-netizen
+If you found this project useful, feel free to star the repository.
